@@ -1,23 +1,103 @@
-<h1 align="center">Hi 👋, I'm Siddharth Yadav</h1>
-<h3 align="center">A passionate coder, college student</h3>
+<h1 align="center">Hey 👋 I'm Siddharth Yadav</h1>
+<h3 align="center">🚀 19 y/o Student | Python AI/ML & Web Dev Enthusiast | Problem Solver & Code Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithsiddharth&label=Profile%20views&color=0e75b6&style=flat" alt="devwithsiddharth" /> </p>
 
-- 🌱 I’m currently learning **python AI ML integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevWithSiddharth](https://github.com/DevWithSiddharth)
 
-- 💬 Ask me about **web developmwnt, backend, python**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **devwithsid.tech@gmail.com**
+- 🎓 19-year-old student, navigating life one code snippet at a time  
+- 💻 I love breaking things in **frontend & backend** and then somehow making them work  
+- 🌱 Exploring **Python, AI & Machine Learning** (and occasionally wondering what I’m doing 😅)  
+- 🧠 Learning by doing, debugging like a mad scientist, surviving on caffeine  
+- 📂 Peek at my “oops… it works somehow” projects: [GitHub](https://github.com/DevWithSiddharth)  
+- 💬 Chat with me about **Web Dev, Python, APIs, AI, or literally anything nerdy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+
+## ⚙️ Tech I’ve Played With
+
+### 💻 Web & Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" height="60" />
+</div>
+
+### 🖥️ Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,php" height="60" />
+</div>
+
+### 🐍 Python & AI / Data
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,qt,pytorch" height="60" />
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,linux,bash" height="60" />
+</div>
+
+### 🤖 Electronics & Misc
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" />
+</div>
+
+
+
+
+
+## 🚀 Projects I’m Proud Of
+
+| Project | Tech | Demo / Repo |
+|---------|------|-------------|
+| Fairyland | HTML, CSS, JavaScript | [Repo](https://github.com/DevWithSiddharth/Fairyland)  [demo](https://devwithsiddharth.github.io/Fairyland/) |
+| Clone-Netflix | HTML, CSS | [Repo](https://github.com/DevWithSiddharth/Clone-Netflix)  [demo](https://devwithsiddharth.github.io/Clone-Netflix/) |
+| TimeReaper | React | [Repo](https://github.com/DevWithSiddharth/TimeReaper)  [demo](https://time-reaper.vercel.app/) |
+| GetMusic-Legacy | PHP MySQL Javascript | [Repo](https://github.com/DevWithSiddharth/GetMusic-Legacy) |
+
+
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWithSiddharth&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithsiddharth&show_icons=true&locale=en&layout=compact" alt="devwithsiddharth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwithsiddharth&show_icons=true&locale=en" alt="devwithsiddharth" /></p>
+## 🌐 Connect With Me
+
+📫 **Email Me:** [devwithsid.tech@gmail.com](mailto:devwithsid.tech@gmail.com)  
+💻 **GitHub:** [DevWithSiddharth](https://github.com/DevWithSiddharth)  
+
+
+
+
+## 🎯 Random Things About Me
+
+- ⚡ Love building stuff that sometimes works… sometimes explodes  
+- 🧩 Debugging = my daily brain workout  
+- 🚀 Always trying to learn new tricks and level up  
+- 🎮 Mostly coding… occasionally gaming… rarely sleeping  
+
+
+
+
+## 💡 What I’m Up To
+
+- 🤖 Experimenting with **AI + Web projects** (because why not?)  
+- 🌍 Learning by building, failing, and laughing at my mistakes  
+- 📈 Slowly leveling up my dev skills every single day  
+
+
+## ☕ Caffeine, Code & Chaos
+
+- 🚀 Turning caffeine ☕ into code that sometimes works… sometimes blows up 💥
+- 💻 Coding experiments: 50% genius, 50% chaos, 100% coffee ☕⚡
+- ⚡ Debugging like a mad scientist, powered by coffee and questionable life choices ☕🧪  
+
+
+
+
+<h3 align="center">Thanks for stopping byeee! 👋</h3>
