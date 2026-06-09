@@ -96,13 +96,6 @@
 - 💻 Coding experiments: 50% genius, 50% chaos, 100% coffee ☕⚡
 - ⚡ Debugging like a mad scientist, powered by coffee and questionable life choices ☕🧪  
 
-## 📊 Developer Statistics
-
-- 🐛 Bugs introduced: countless
-- 🔧 Bugs fixed: most of them
-- ☕ Cups of coffee consumed: classified
-- 💡 Random ideas per day: too many
-- 🚀 Projects abandoned at 90% completion: let's not talk about it
 
 <h3 align="center">⚡ If you're reading this, my README worked.</h3>
 <h3 align="center">Thanks for stopping byeee! 👋</h3>
