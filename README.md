@@ -58,12 +58,6 @@
 
 
 
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWithSiddharth&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 
 ## 🌐 Connect With Me
