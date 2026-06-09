@@ -15,8 +15,7 @@
 
 
 
-
-## ⚙️ Tech I’ve Played With
+## 🧰 My Developer Starter Pack
 
 ### 💻 Web & Frontend
 <div align="center">
@@ -47,7 +46,7 @@
 
 
 
-## 🚀 Projects I’m Proud Of
+## 🔥 Proof I Don't Just Watch Coding Tutorials
 
 | Project | Tech | Demo / Repo |
 |---------|------|-------------|
@@ -84,7 +83,7 @@
 
 
 
-## 💡 What I’m Up To
+## 🔥 Current Side Quests
 
 - 🤖 Experimenting with **AI + Web projects** (because why not?)  
 - 🌍 Learning by building, failing, and laughing at my mistakes  
@@ -97,7 +96,13 @@
 - 💻 Coding experiments: 50% genius, 50% chaos, 100% coffee ☕⚡
 - ⚡ Debugging like a mad scientist, powered by coffee and questionable life choices ☕🧪  
 
+## 📊 Developer Statistics
 
+- 🐛 Bugs introduced: countless
+- 🔧 Bugs fixed: most of them
+- ☕ Cups of coffee consumed: classified
+- 💡 Random ideas per day: too many
+- 🚀 Projects abandoned at 90% completion: let's not talk about it
 
-
+<h3 align="center">⚡ If you're reading this, my README worked.</h3>
 <h3 align="center">Thanks for stopping byeee! 👋</h3>
