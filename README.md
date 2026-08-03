@@ -59,10 +59,10 @@
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical&v=2" alt="GitHub Streak"/>
-</p>
-
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical" alt="GitHub Streak"/>
+</p> -->
+![GitHub Streak](https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical)
 
 
 ## 🌐 Connect With Me
