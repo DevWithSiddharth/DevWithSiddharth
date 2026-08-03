@@ -62,7 +62,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical" alt="GitHub Streak" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical)
 
 
 ## 🌐 Connect With Me
