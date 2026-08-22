@@ -56,14 +56,6 @@
 | GetMusic-Legacy | PHP MySQL Javascript | [Repo](https://github.com/DevWithSiddharth/GetMusic-Legacy) |
 
 
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevWithSiddharth&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 📫 **Email Me:** [devwithsid.tech@gmail.com](mailto:devwithsid.tech@gmail.com)  
